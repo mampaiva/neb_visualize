@@ -1,5 +1,5 @@
 # neb_visualize
-script to visualize results from an ORCA-NEB run for ORCA 4.2
+script to visualize results from an ORCA-NEB run for ORCA 5
 
 Usage: python neb_snapshots.py basename.interp start_at_iter<int> end_at_iter<int> 
 
